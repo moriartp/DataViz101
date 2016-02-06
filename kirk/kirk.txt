@@ -1,0 +1,13 @@
+“almost everything we do is digitized and quantified”
+I remember a colleague once suggesting that not everything can be quantified, and I remember asking, “why not?”
+
+“…and intersection of art and science”
+in this way, it seems to share a character of architecture. makes me wonder if principles of architecture might apply?
+
+Perhaps the most famous declaration from De architectura is one still quoted by architects: "Well building hath three conditions: firmness, commodity, and delight." A modern interpretation might render it thus: "The ideal building has three elements; it is sturdy, useful, and beautiful."
+sturdy = computer science
+useful = statistics
+beautiful = design
+
+“visual functions are extremely fast…exploit this attribute”
+Interesting to think of data viz merely as this: the transposition of meaning into the visual, precognitive state
